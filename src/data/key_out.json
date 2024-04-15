@@ -1,0 +1,104 @@
+[
+  {
+    "array": "132kV array",
+    "combo": "HVDC",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "66kV array",
+    "combo": "HVDC",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x220kV",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x275kV",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "3x275kV",
+    "plat": "1 plat",
+    "fiftyormid": "Mid"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x220kV",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x220kV",
+    "plat": "2 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x275kV",
+    "plat": "1 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x220kV",
+    "plat": "2 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x275kV",
+    "plat": "2 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x275kV",
+    "plat": "2 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x220kV",
+    "plat": "4 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "3x275kV",
+    "plat": "3 plat",
+    "fiftyormid": "Mid"
+  },
+  {
+    "array": "66kV array",
+    "combo": "4x275kV",
+    "plat": "4 plat",
+    "fiftyormid": "50:50"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x220kV",
+    "plat": "1 plat",
+    "fiftyormid": "Mid"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x220kV",
+    "plat": "2 plat",
+    "fiftyormid": "Mid"
+  },
+  {
+    "array": "132kV array",
+    "combo": "4x275kV",
+    "plat": "1 plat",
+    "fiftyormid": "Mid"
+  }
+]

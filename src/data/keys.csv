@@ -1,0 +1,18 @@
+﻿array,combo,plat,fiftyormid
+132kV array,HVDC,1 plat,50:50
+66kV array,HVDC,1 plat,50:50
+132kV array,4x220kV,1 plat,50:50
+132kV array,4x275kV,1 plat,50:50
+132kV array,3x275kV,1 plat,Mid
+66kV array,4x220kV,1 plat,50:50
+132kV array,4x220kV,2 plat,50:50
+66kV array,4x275kV,1 plat,50:50
+66kV array,4x220kV,2 plat,50:50
+132kV array,4x275kV,2 plat,50:50
+66kV array,4x275kV,2 plat,50:50
+66kV array,4x220kV,4 plat,50:50
+132kV array,3x275kV,3 plat,Mid
+66kV array,4x275kV,4 plat,50:50
+132kV array,4x220kV,1 plat,Mid
+132kV array,4x220kV,2 plat,Mid
+132kV array,4x275kV,1 plat,Mid

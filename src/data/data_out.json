@@ -1,0 +1,410 @@
+[
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 165.44,
+      "Capex: Offshore Sub": 434.0,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 266.0
+    },
+    "losses": {
+      "Losses: Array Cable": 19.94,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 28.68,
+      "Losses: Offshore Transformers": 2.24,
+      "Losses: Onshore Transformers": 2.24,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 71.84,
+      "Availability: Offshore Transformers": 76.97,
+      "Availability: Onshore Transformers": 76.97
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 106.52,
+      "Capex: Transmission Cable": 165.44,
+      "Capex: Offshore Sub": 434.0,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 266.0
+    },
+    "losses": {
+      "Losses: Array Cable": 26.87,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 28.68,
+      "Losses: Offshore Transformers": 2.24,
+      "Losses: Onshore Transformers": 2.24,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.48,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 71.84,
+      "Availability: Offshore Transformers": 76.97,
+      "Availability: Onshore Transformers": 76.97
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 392.28,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 131.57
+    },
+    "losses": {
+      "Losses: Array Cable": 19.94,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 108.98,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 50.49,
+      "Availability: Offshore Transformers": 2.98,
+      "Availability: Onshore Transformers": 1.46
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 421.86,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 136.65
+    },
+    "losses": {
+      "Losses: Array Cable": 19.94,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.75,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 42.01,
+      "Availability: Offshore Transformers": 2.98,
+      "Availability: Onshore Transformers": 1.46
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 410.51,
+      "Capex: Offshore Sub": 364.58,
+      "Capex: Onshore Sub": 193.63,
+      "Capex: Array Cable": 117.38
+    },
+    "losses": {
+      "Losses: Array Cable": 19.94,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 88.55,
+      "Losses: Offshore Transformers": 11.5,
+      "Losses: Onshore Transformers": 10.73,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 43.55,
+      "Availability: Offshore Transformers": 8.48,
+      "Availability: Onshore Transformers": 7.07
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 106.52,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 389.31,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 129.31
+    },
+    "losses": {
+      "Losses: Array Cable": 26.87,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 108.98,
+      "Losses: Offshore Transformers": 10.65,
+      "Losses: Onshore Transformers": 9.95,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.48,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 50.49,
+      "Availability: Offshore Transformers": 5.65,
+      "Availability: Onshore Transformers": 3.9
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 74.69,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 415.85,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 131.57
+    },
+    "losses": {
+      "Losses: Array Cable": 16.81,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 109.0,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.67,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 64.66,
+      "Availability: Offshore Transformers": 7.72,
+      "Availability: Onshore Transformers": 6.86
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 106.52,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 430.1,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 134.39
+    },
+    "losses": {
+      "Losses: Array Cable": 26.87,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.75,
+      "Losses: Offshore Transformers": 10.65,
+      "Losses: Onshore Transformers": 9.95,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.48,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 42.01,
+      "Availability: Offshore Transformers": 5.65,
+      "Availability: Onshore Transformers": 3.9
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 93.74,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 412.53,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 127.95
+    },
+    "losses": {
+      "Losses: Array Cable": 20.38,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 109.0,
+      "Losses: Offshore Transformers": 11.32,
+      "Losses: Onshore Transformers": 10.65,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 3.54,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 64.66,
+      "Availability: Offshore Transformers": 10.07,
+      "Availability: Onshore Transformers": 9.22
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 74.69,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 457.19,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 136.65
+    },
+    "losses": {
+      "Losses: Array Cable": 16.81,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.76,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.67,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 60.21,
+      "Availability: Offshore Transformers": 7.72,
+      "Availability: Onshore Transformers": 6.86
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 93.74,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 453.87,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 133.03
+    },
+    "losses": {
+      "Losses: Array Cable": 20.38,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.76,
+      "Losses: Offshore Transformers": 11.32,
+      "Losses: Onshore Transformers": 10.65,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 3.54,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 60.21,
+      "Availability: Offshore Transformers": 10.07,
+      "Availability: Onshore Transformers": 9.22
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 82.39,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 410.51,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 127.95
+    },
+    "losses": {
+      "Losses: Array Cable": 16.74,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 109.04,
+      "Losses: Offshore Transformers": 11.32,
+      "Losses: Onshore Transformers": 10.66,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 2.95,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 103.47,
+      "Availability: Offshore Transformers": 16.96,
+      "Availability: Onshore Transformers": 16.96
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 68.68,
+      "Capex: Transmission Cable": 410.51,
+      "Capex: Offshore Sub": 399.9,
+      "Capex: Onshore Sub": 193.63,
+      "Capex: Array Cable": 117.38
+    },
+    "losses": {
+      "Losses: Array Cable": 14.8,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 88.55,
+      "Losses: Offshore Transformers": 11.5,
+      "Losses: Onshore Transformers": 10.73,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 3.92,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 103.47,
+      "Availability: Offshore Transformers": 16.96,
+      "Availability: Onshore Transformers": 16.96
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 82.39,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 451.64,
+      "Capex: Onshore Sub": 0.0,
+      "Capex: Array Cable": 133.03
+    },
+    "losses": {
+      "Losses: Array Cable": 16.74,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.79,
+      "Losses: Offshore Transformers": 11.32,
+      "Losses: Onshore Transformers": 10.66,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 2.95,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 103.47,
+      "Availability: Offshore Transformers": 16.96,
+      "Availability: Onshore Transformers": 16.96
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 356.82,
+      "Capex: Onshore Sub": 178.81,
+      "Capex: Array Cable": 124.32
+    },
+    "losses": {
+      "Losses: Array Cable": 16.47,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 108.98,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 50.49,
+      "Availability: Offshore Transformers": 2.98,
+      "Availability: Onshore Transformers": 1.46
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 74.69,
+      "Capex: Transmission Cable": 521.28,
+      "Capex: Offshore Sub": 380.4,
+      "Capex: Onshore Sub": 178.81,
+      "Capex: Array Cable": 122.96
+    },
+    "losses": {
+      "Losses: Array Cable": 16.81,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 109.0,
+      "Losses: Offshore Transformers": 11.25,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 4.67,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 64.66,
+      "Availability: Offshore Transformers": 7.72,
+      "Availability: Onshore Transformers": 6.86
+    }
+  },
+  {
+    "capex": {
+      "Capex: Array": 79.61,
+      "Capex: Transmission Cable": 547.34,
+      "Capex: Offshore Sub": 379.56,
+      "Capex: Onshore Sub": 248.84,
+      "Capex: Array Cable": 129.13
+    },
+    "losses": {
+      "Losses: Array Cable": 16.47,
+      "Losses: Turbine Transformers": 11.3,
+      "Losses: Transmission Cable": 69.75,
+      "Losses: Offshore Transformers": 11.5,
+      "Losses: Onshore Transformers": 10.62,
+      "Losses: Compensation": 0.0
+    },
+    "avail": {
+      "Availability: Array Cable": 5.35,
+      "Availability Turbine Transformers": 8.03,
+      "Availability: Transmission Cable": 42.01,
+      "Availability: Offshore Transformers": 7.68,
+      "Availability: Onshore Transformers": 1.46
+    }
+  }
+]
