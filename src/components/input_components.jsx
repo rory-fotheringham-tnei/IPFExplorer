@@ -32,19 +32,19 @@ import keysOut from '../data/key_out.json'
 
 const cats = {
     combo: {
-        title: 'Cable combo',
+        title: 'Transmission Export',
         types: ['HVDC', '4x220kV', '4x275kV', '3x275kV']
     },
     plat: {
-        title: 'Plat',
+        title: 'Offshore Platform',
         types: ['1 plat', '2 plat', '3 plat', '4 plat']
     },
     array: {
-        title: 'Array',
+        title: 'Inner Array Voltage',
         types: ['66kV array', '132kV array']
     },
     fiftyormid: {
-        title: '50:50 or Mid',
+        title: 'Reactive Power Configuration',
         types: ['50:50', 'Mid']
     }
 }
@@ -160,6 +160,7 @@ const cats = {
 // ]
 
 const possibleWorlds = keysOut;
+console.log(keysOut)
 
 
 export default function InputCard({ updateData }) {
@@ -281,7 +282,8 @@ export default function InputCard({ updateData }) {
         return true;
     }
 
-    return (<div className='my-4 card border shadow-sm'>
+    return (<div className='mb-4 mt-2 card border shadow-sm'>
+        <div className='card-header'><h4>Select Layout</h4></div>
         {Object.keys(cats).map((item, index) => (
             <Select key={index} frontier={currentState} selItems={selectedItems} type={item} updateState={updateState} />
         ))}
