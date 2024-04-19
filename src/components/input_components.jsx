@@ -49,6 +49,17 @@ const cats = {
     }
 }
 
+const prettyDict = {
+    'HVDC': 'HVDC (400kV)',
+    '4x220kV': '4 Circuits @ 220kV',
+    '4x275kV': '4 Circuits @ 275kV',
+    '3x275kV': '3 Circuits @ 275kV',
+
+    '1 plat': '1 Plat',
+    '2 plat': '2 Plat',
+    '3 plat': '3 Plat',
+    '4 plat': '4 Plat'
+}
 
 // const possibleWorlds = [
 //     {
@@ -297,6 +308,14 @@ export default function InputCard({ updateData }) {
     );
 }
 
+function getPrettyItem(item) {
+    let prettyItem = prettyDict[item]
+    if (prettyItem === undefined) {
+        prettyItem = item
+    }
+    return prettyItem
+}
+
 // frontier is a dict for each item in a category of the form, <item: bool>.
 // it describes whether the item should be clickable given current state: 
 function Select({ frontier, type, updateState, selItems }) {
@@ -314,12 +333,12 @@ function Select({ frontier, type, updateState, selItems }) {
                     {(selItems[type] === item) ? (
                         <button onClick={() => updateState(type, item)}
                             disabled={!selectedFrontier[item]}
-                            className="w-100 btn btn-success ">{item}</button>) :
+                            className="w-100 btn btn-success ">{getPrettyItem(item)}</button>) :
 
                         (
                             <button onClick={() => updateState(type, item)}
                                 disabled={!selectedFrontier[item]}
-                                className="w-100 btn btn-primary ">{item}</button>)
+                                className="w-100 btn btn-primary ">{getPrettyItem(item)}</button>)
                     }
 
                 </div>
