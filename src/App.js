@@ -40,7 +40,7 @@ const pictureMapList = [
   [{ array: '132kV array', combo: '4x220kV', plat: '2 plat', fiftyormid: '50:50' }, '132kV-2 PLAT-220kV-5050.png'],
   [{ array: '66kV array', combo: '4x275kV', plat: '1 plat', fiftyormid: '50:50' }, '66kV-1 PLAT-220kV or 275kV-5050.png'],
   [{ array: '66kV array', combo: '4x220kV', plat: '2 plat', fiftyormid: '50:50' }, '66kV-2 PLAT-220kV or 275kV-5050.png'],
-  [{ array: '132kV array', combo: '4x275kV', plat: '2 plat', fiftyormid: '50:50' }, 'no image'],
+  [{ array: '132kV array', combo: '4x275kV', plat: '2 plat', fiftyormid: '50:50' }, '66kV-2 PLAT-220kV or 275kV-5050.png'],
   [{ array: '66kV array', combo: '4x275kV', plat: '2 plat', fiftyormid: '50:50' }, '66kV-2 PLAT-220kV or 275kV-5050.png'],
   [{ array: '66kV array', combo: '4x220kV', plat: '4 plat', fiftyormid: '50:50' }, '66kV-4 PLAT-220kV or 275kV-5050.png'],
   [{ array: '132kV array', combo: '3x275kV', plat: '3 plat', fiftyormid: 'Mid' }, '132kV-3 PLAT-275kV-5050.png'],
