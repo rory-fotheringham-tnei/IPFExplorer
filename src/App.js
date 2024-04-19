@@ -209,7 +209,7 @@ function Controller() {
     var datasets = toDatasets(selectedData);
     var dataObject = {
       labels: [queryToString('Your Selection: ', query),
-      queryToString('Best Selection: ', bestQuery)],
+      queryToString('Most Cost Effective: ', bestQuery)],
       datasets: datasets
     };
 

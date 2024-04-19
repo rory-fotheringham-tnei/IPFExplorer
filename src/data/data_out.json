@@ -1,11 +1,11 @@
 [
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 165.44,
       "Capex: Offshore Sub": 434.0,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 266.0
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 266.0
     },
     "losses": {
       "Losses: Array Cable": 19.94,
@@ -25,11 +25,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 106.52,
+      "Capex: Array Cable": 106.52,
       "Capex: Transmission Cable": 165.44,
       "Capex: Offshore Sub": 434.0,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 266.0
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 266.0
     },
     "losses": {
       "Losses: Array Cable": 26.87,
@@ -49,11 +49,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 392.28,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 131.57
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 131.57
     },
     "losses": {
       "Losses: Array Cable": 19.94,
@@ -73,11 +73,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 421.86,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 136.65
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 136.65
     },
     "losses": {
       "Losses: Array Cable": 19.94,
@@ -97,11 +97,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 410.51,
       "Capex: Offshore Sub": 364.58,
-      "Capex: Onshore Sub": 193.63,
-      "Capex: Array Cable": 117.38
+      "Capex: Midpoint Sub": 193.63,
+      "Capex: Onshore Sub": 117.38
     },
     "losses": {
       "Losses: Array Cable": 19.94,
@@ -121,11 +121,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 106.52,
+      "Capex: Array Cable": 106.52,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 389.31,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 129.31
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 129.31
     },
     "losses": {
       "Losses: Array Cable": 26.87,
@@ -145,11 +145,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 74.69,
+      "Capex: Array Cable": 74.69,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 415.85,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 131.57
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 131.57
     },
     "losses": {
       "Losses: Array Cable": 16.81,
@@ -169,11 +169,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 106.52,
+      "Capex: Array Cable": 106.52,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 430.1,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 134.39
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 134.39
     },
     "losses": {
       "Losses: Array Cable": 26.87,
@@ -193,11 +193,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 93.74,
+      "Capex: Array Cable": 93.74,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 412.53,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 127.95
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 127.95
     },
     "losses": {
       "Losses: Array Cable": 20.38,
@@ -217,11 +217,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 74.69,
+      "Capex: Array Cable": 74.69,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 457.19,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 136.65
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 136.65
     },
     "losses": {
       "Losses: Array Cable": 16.81,
@@ -241,11 +241,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 93.74,
+      "Capex: Array Cable": 93.74,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 453.87,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 133.03
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 133.03
     },
     "losses": {
       "Losses: Array Cable": 20.38,
@@ -265,11 +265,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 82.39,
+      "Capex: Array Cable": 82.39,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 410.51,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 127.95
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 127.95
     },
     "losses": {
       "Losses: Array Cable": 16.74,
@@ -289,11 +289,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 68.68,
+      "Capex: Array Cable": 68.68,
       "Capex: Transmission Cable": 410.51,
       "Capex: Offshore Sub": 399.9,
-      "Capex: Onshore Sub": 193.63,
-      "Capex: Array Cable": 117.38
+      "Capex: Midpoint Sub": 193.63,
+      "Capex: Onshore Sub": 117.38
     },
     "losses": {
       "Losses: Array Cable": 14.8,
@@ -313,11 +313,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 82.39,
+      "Capex: Array Cable": 82.39,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 451.64,
-      "Capex: Onshore Sub": 0.0,
-      "Capex: Array Cable": 133.03
+      "Capex: Midpoint Sub": 0.0,
+      "Capex: Onshore Sub": 133.03
     },
     "losses": {
       "Losses: Array Cable": 16.74,
@@ -337,11 +337,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 356.82,
-      "Capex: Onshore Sub": 178.81,
-      "Capex: Array Cable": 124.32
+      "Capex: Midpoint Sub": 178.81,
+      "Capex: Onshore Sub": 124.32
     },
     "losses": {
       "Losses: Array Cable": 16.47,
@@ -361,11 +361,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 74.69,
+      "Capex: Array Cable": 74.69,
       "Capex: Transmission Cable": 521.28,
       "Capex: Offshore Sub": 380.4,
-      "Capex: Onshore Sub": 178.81,
-      "Capex: Array Cable": 122.96
+      "Capex: Midpoint Sub": 178.81,
+      "Capex: Onshore Sub": 122.96
     },
     "losses": {
       "Losses: Array Cable": 16.81,
@@ -385,11 +385,11 @@
   },
   {
     "capex": {
-      "Capex: Array": 79.61,
+      "Capex: Array Cable": 79.61,
       "Capex: Transmission Cable": 547.34,
       "Capex: Offshore Sub": 379.56,
-      "Capex: Onshore Sub": 248.84,
-      "Capex: Array Cable": 129.13
+      "Capex: Midpoint Sub": 248.84,
+      "Capex: Onshore Sub": 129.13
     },
     "losses": {
       "Losses: Array Cable": 16.47,
